@@ -1,7 +1,0 @@
-**This document provides a list of basic Docker CLI commands.**
-
-### Check Docker version
-
-```bash
-docker --version
-```
